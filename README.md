@@ -1,1 +1,1 @@
-# RigelPolicy-
+# Rigel Policy
